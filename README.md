@@ -12,9 +12,9 @@ Ye ek pure **Offline Hindi/Hinglish Voice Assistant** hai jo Raspberry Pi par ch
 
 ## 🛠️ Requirements
 - Raspberry Pi (3, 4, ya 5)
-- USB Microphone ya Sound Card
-- Speaker (3.5mm jack ya USB)
-- Python 3.11+
+- USB Microphone 
+- Speaker (3.5mm jack )
+- Python 3.13
 
 ## 🚀 Installation
 
@@ -26,6 +26,7 @@ Ye ek pure **Offline Hindi/Hinglish Voice Assistant** hai jo Raspberry Pi par ch
 
    Vosk Model Download karein:
 Vosk ka Hindi model yahan se download karein aur project folder mein model naam se extract karein.
+"Download the Hindi model from Alphacephei and put it in a folder named 'model' inside the project directory."
 
 🚦 How to Use
 Project folder mein jaein aur script run karein:
